@@ -1,10 +1,20 @@
 # Soyabean_Disease_Classification_Using_CNN
 
-1. Required Libraries: 
+This Deep Learning project detect the disease in soyabean plant and classify then into 3 categories:
+       
+       Caterpillar
+       Diabrotica speciosa
+       Healthy
+### Used Dataset for this project:
+https://www.kaggle.com/datasets/maeloisamignoni/soybeanleafdataset
+### Required Libraries: 
 
        numpy
        matplotlib
        TenssorFlow
+
+
+
  ## Convolution Neural Network(CNN)
  
  Deep Learning has proven to be a awfully powerful tool attributable to its ability to handle giant amounts of information. The interest to use hidden layers has 
